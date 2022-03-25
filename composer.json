@@ -35,6 +35,8 @@
         "doctrine/annotations": "^1.4",
         "doctrine/reflection": "^1.1",
         "drupal/bootstrap": "3.x-dev@dev",
+        "drupal/bootstrap_library": "1.x-dev@dev",
+        "drupal/bootstrap_simple_carousel": "1.x-dev@dev",
         "drupal/core-composer-scaffold": "^9.3",
         "drupal/core-project-message": "^9.3",
         "drupal/core-recommended": "^9.3",

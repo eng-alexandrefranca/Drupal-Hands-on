@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '24925e13b78779a22c22113a38cfa09672b644a2',
+        'reference' => '77c4fa38bcf7c44441c63b9ee6447fb864cbbb3a',
         'name' => 'drupal/recommended-project',
         'dev' => true,
     ),
@@ -133,6 +133,28 @@
                 0 => '3.x-dev',
             ),
             'reference' => 'a8ece22b7158cf8e595e220d653b58b163ccd027',
+            'dev_requirement' => false,
+        ),
+        'drupal/bootstrap_library' => array(
+            'pretty_version' => 'dev-1.x',
+            'version' => 'dev-1.x',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../web/modules/contrib/bootstrap_library',
+            'aliases' => array(
+                0 => '1.x-dev',
+            ),
+            'reference' => 'e2e5168fbe41d06e56162eeef4de17627b4c06ae',
+            'dev_requirement' => false,
+        ),
+        'drupal/bootstrap_simple_carousel' => array(
+            'pretty_version' => 'dev-1.x',
+            'version' => 'dev-1.x',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../web/modules/contrib/bootstrap_simple_carousel',
+            'aliases' => array(
+                0 => '1.x-dev',
+            ),
+            'reference' => 'b13f564dd8355edd4274ff46ec3aaf6af5bbc953',
             'dev_requirement' => false,
         ),
         'drupal/breakpoint' => array(
@@ -651,7 +673,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '24925e13b78779a22c22113a38cfa09672b644a2',
+            'reference' => '77c4fa38bcf7c44441c63b9ee6447fb864cbbb3a',
             'dev_requirement' => false,
         ),
         'drupal/responsive_image' => array(
@@ -1314,6 +1336,15 @@
             'reference' => '2c309e258adeb9970229042be39b360d34986fad',
             'dev_requirement' => false,
         ),
+        'twbs/bootstrap' => array(
+            'pretty_version' => 'v4.6.1',
+            'version' => '4.6.1.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../twbs/bootstrap',
+            'aliases' => array(),
+            'reference' => '043a03c95a2ad6738f85b65e53b9dbdfb03b8d10',
+            'dev_requirement' => false,
+        ),
         'twig/twig' => array(
             'pretty_version' => 'v2.14.11',
             'version' => '2.14.11.0',
@@ -1322,6 +1353,12 @@
             'aliases' => array(),
             'reference' => '66baa66f29ee30e487e05f1679903e36eb01d727',
             'dev_requirement' => false,
+        ),
+        'twitter/bootstrap' => array(
+            'dev_requirement' => false,
+            'replaced' => array(
+                0 => 'v4.6.1',
+            ),
         ),
         'typo3/phar-stream-wrapper' => array(
             'pretty_version' => 'v3.1.7',
