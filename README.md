@@ -40,6 +40,7 @@ O conteúdo terá, pelo menos, 10 filmes e 3 atores para cada filme.
 - instalação de sub-temas;
 - criação da página básica de filmes;
 - criação da página básica do elenco;
+- aplicação de tema padrão Bootstrap Slate;
 - instalação de bibliotecas de CSS [NÃO RESOLVIDO];
 - criação de view para a página Filmes;
 
