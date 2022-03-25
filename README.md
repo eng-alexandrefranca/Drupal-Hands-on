@@ -30,7 +30,7 @@ O conteúdo terá, pelo menos, 10 filmes e 3 atores para cada filme.
 - Um dump de banco de dados deve estar disponível na raiz de projetos para os dados de conteúdo.
 - Os arquivos de despejo e config do banco de dados devem ser sincronizados.
 
-#### Etapas Básicas do Projeto:
+### Etapas Básicas do Projeto:
 
 - instalação do git;
 - vinculação com o github;
@@ -40,6 +40,7 @@ O conteúdo terá, pelo menos, 10 filmes e 3 atores para cada filme.
 - instalação de sub-temas;
 - criação da página básica de filmes;
 - criação da página básica do elenco;
-- instalação de bibliotecas de CSS;
+- instalação de bibliotecas de CSS [NÃO RESOLVIDO];
+- criação de view para a página Filmes;
 
 Guia Mark Down: <https://www.markdownguide.org/basic-syntax/>
