@@ -43,5 +43,6 @@ O conteúdo terá, pelo menos, 10 filmes e 3 atores para cada filme.
 - aplicação de tema padrão Bootstrap Slate;
 - instalação de bibliotecas de CSS [NÃO RESOLVIDO];
 - criação de view para a página Filmes;
+- criação do Menu Principal;
 
 Guia Mark Down: <https://www.markdownguide.org/basic-syntax/>
