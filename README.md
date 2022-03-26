@@ -44,5 +44,6 @@ O conteúdo terá, pelo menos, 10 filmes e 3 atores para cada filme.
 - instalação de bibliotecas de CSS [NÃO RESOLVIDO];
 - criação de view para a página Filmes;
 - criação do Menu Principal;
+- implementação do Pathauto (endereços amigáveis);
 
 Guia Mark Down: <https://www.markdownguide.org/basic-syntax/>
