@@ -22,7 +22,7 @@ class TypedDataResolverTest extends KernelTestBase {
    *
    * @var array
    */
-  public static $modules = ['user', 'system', 'entity_test', 'ctools'];
+  protected static $modules = ['user', 'system', 'entity_test', 'ctools'];
 
   /**
    * @var \Drupal\ctools\TypedDataResolver

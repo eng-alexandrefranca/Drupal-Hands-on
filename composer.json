@@ -40,6 +40,7 @@
         "drupal/core-composer-scaffold": "^9.3",
         "drupal/core-project-message": "^9.3",
         "drupal/core-recommended": "^9.3",
+        "drupal/ctools": "3.x-dev@dev",
         "drupal/pathauto": "1.x-dev@dev",
         "egulias/email-validator": "^3.1",
         "guzzlehttp/guzzle": "^6.5.2",

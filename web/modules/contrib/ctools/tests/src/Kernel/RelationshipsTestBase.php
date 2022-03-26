@@ -24,7 +24,7 @@ abstract class RelationshipsTestBase extends KernelTestBase {
    *
    * @var array
    */
-  public static $modules = [
+  protected static $modules = [
     'user',
     'system',
     'node',

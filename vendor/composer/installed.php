@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '4fb679377b8dd9a088c3cc1a72133e803b343c6f',
+        'reference' => '82d087276816358139a7978dc685bfd648a51b8a',
         'name' => 'drupal/recommended-project',
         'dev' => true,
     ),
@@ -422,12 +422,14 @@
             ),
         ),
         'drupal/ctools' => array(
-            'pretty_version' => '3.7.0',
-            'version' => '3.7.0.0',
+            'pretty_version' => 'dev-3.x',
+            'version' => 'dev-3.x',
             'type' => 'drupal-module',
             'install_path' => __DIR__ . '/../../web/modules/contrib/ctools',
-            'aliases' => array(),
-            'reference' => '8.x-3.7',
+            'aliases' => array(
+                0 => '3.x-dev',
+            ),
+            'reference' => '23dc147e427b5e6c9b6f494c8e31cdac384ecdd0',
             'dev_requirement' => false,
         ),
         'drupal/datetime' => array(
@@ -693,7 +695,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '4fb679377b8dd9a088c3cc1a72133e803b343c6f',
+            'reference' => '82d087276816358139a7978dc685bfd648a51b8a',
             'dev_requirement' => false,
         ),
         'drupal/responsive_image' => array(
