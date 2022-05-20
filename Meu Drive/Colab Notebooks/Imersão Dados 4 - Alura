@@ -1,0 +1,56 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "imersao_dados_04_alura.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyPEHVrlqXLVi0nJkkFBDtcd",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/eng-alexandrefranca/Drupal-Hands-on/blob/main/Meu%20Drive/Colab%20Notebooks/Imers%C3%A3o%20Dados%204%20-%20Alura\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "KnycsvWgoKiD"
+      },
+      "outputs": [],
+      "source": [
+        ""
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Imersão Dados:\n",
+        "\n",
+        "\n",
+        "![Build Status Passing](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "c7sS4svuoV54"
+      }
+    }
+  ]
+}
